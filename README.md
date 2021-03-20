@@ -11,8 +11,8 @@ Virtual Kitty doesn't know anything otherthan:
 
 - HTML
 
-- C# 
+- Java
 
 - MySQL.
 
-And she is working on a small _DBMS project_ required for her University. 
+And she is working on a small _projects_ required for her University. 
